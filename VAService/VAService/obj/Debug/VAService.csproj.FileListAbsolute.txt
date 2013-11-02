@@ -1,0 +1,10 @@
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\VAService.dll
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\VAService.pdb
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\MongoDB.Bson.dll
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\MongoDB.Driver.dll
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\MongoDB.Bson.pdb
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\MongoDB.Bson.xml
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\MongoDB.Driver.pdb
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\bin\MongoDB.Driver.xml
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\obj\Debug\VAService.dll
+C:\Users\mjones9\Documents\Visual Studio 2012\Projects\VAService\VAService\obj\Debug\VAService.pdb
