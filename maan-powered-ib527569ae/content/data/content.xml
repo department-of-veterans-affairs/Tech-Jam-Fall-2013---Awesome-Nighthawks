@@ -1,0 +1,833 @@
+<zuiprezi>
+  <version>7</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-13405.693493291283" y="-7537.456883887075" width="26811.38698658257" height="15074.91376777415"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+      <mode type="normal"/>
+    </settings>
+    <object id="5_24309637" type="button" x="1.030333970502651e-12" y="3.434446568342168e-13" r="0" s="29.675027101917618" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>904.0121755953832</w>
+        <h>508.50684877240303</h>
+      </size>
+      <meta>
+        <parentTemplate>organic-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="OVERVIEW"/>
+      </layout>
+    </object>
+    <object id="0_24309637" type="button" x="3735.2055109027065" y="-693.3971690539282" r="0" s="3.5845371264548125" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>organic-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="1_24309637" type="button" x="-397.25" y="771.3" r="0" s="4.496131805971313" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>organic-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="2_24309637" type="button" x="-4962.2384605266125" y="3022.0738183638505" r="0" s="5.2935297508644235" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>organic-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="3_24309637" type="button" x="7365.812432903794" y="-1625.5166289356407" r="0" s="2.8050577438250053" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>organic-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+      <layout>
+        <frametype value="SECTION"/>
+      </layout>
+    </object>
+    <object id="19_24309637" type="text" x="100.61393362959276" y="-4954.362736307809" r="0" s="39.52419858205086" class="head">
+      <height>32.664</height>
+      <width>487.5653233311293</width>
+      <p align="right">
+        <text><![CDATA[The Awesome Nighthawks present MAAN Powered  ]]></text>
+      </p>
+    </object>
+    <object id="7_30863873" type="text" x="7359.379136717728" y="-1943.9840464010508" r="0" s="6.183953835372202" class="head">
+      <height>163.32</height>
+      <width>220.4993900181616</width>
+      <p>
+        <text><![CDATA[M]]></text>
+        <text color="0"><![CDATA[arines]]></text>
+      </p>
+      <p>
+        <text><![CDATA[A]]></text>
+        <text color="0"><![CDATA[rmy]]></text>
+      </p>
+      <p>
+        <text><![CDATA[A]]></text>
+        <text color="0"><![CDATA[ir Force]]></text>
+        <text><![CDATA[ ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[N]]></text>
+        <text color="0"><![CDATA[avy ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Powered]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3_24309637"/>
+      </layout>
+    </object>
+    <object id="8_30863873" type="text" x="7818.185624081925" y="-1931.661886355984" r="0" s="3.473192474666778" class="body">
+      <height>174.96</height>
+      <width>232.92076647630824</width>
+      <p>
+        <text><![CDATA[conceptualized and rendered by:]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Hunter Enoch]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Christian Matson]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Noah Morgan]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Scott Ilkenhons]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3_24309637"/>
+      </layout>
+    </object>
+    <object id="4_24309637" type="text" x="-413.1687713460865" y="-524.0299440490396" r="0" s="9.912049613624562" class="strong">
+      <height>32.664</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Implementation]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="1_24309637"/>
+      </layout>
+    </object>
+    <object id="6_24309637" type="text" x="-436.4" y="832" r="0" s="5.50399939092149" class="body">
+      <height>349.92</height>
+      <width>556.6641905412106</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Access and aggregate data from existing VA DB]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Arrange the data and disseminate out to veteran's secure login web and multi-platform mobile apps]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Create an interface for medical staff to easily manage a veteran's records ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[VA network shared medical terminology separate from the veteran viewed  "straight talk" ]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Video diagnosis allowing the doctor to record and share their findings on a personal level ]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[All lab reports are stored for easy review]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[Future appointments can be scheduled by the veteran following physician recommendation.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="1_24309637"/>
+      </layout>
+    </object>
+    <object id="12_4" type="text" x="3734.989703538503" y="-1764.1882767668033" r="0" s="7.902372833490285" class="strong">
+      <height>32.664</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Fruition]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="25_4" type="text" x="3763.2" y="-687.95" r="0" s="4.366542402877335" class="body">
+      <height>379.08000000000004</height>
+      <width>548.3441652413761</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Technology increases productivity allowing medical personnel to visit more veterans]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[VA maintains an open channel with their veterans ensuring wellness of body and mind during recovery and care]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Veterans receive better and more timely care reducing frustration improving overall well being]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Veterans feel empowered to heal themselves while they have access to their medical history, lab results and wellness care plans.]]></text>
+      </p>
+      <p listType="bullet" indent="2">
+        <text><![CDATA[The women and men of the greatest armed forces are provided the greatest care possible by a system design for the wounded warrior]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="0_24309637"/>
+      </layout>
+    </object>
+    <object id="0_30863873" type="text" x="-7974.778884789174" y="-615.3652047652035" r="0" s="21.612141440927314" class="body">
+      <height>29.16</height>
+      <width>0</width>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <meta>
+        <parentTemplate>organic-locked</parentTemplate>
+        <notModifiedByUser>from-template</notModifiedByUser>
+      </meta>
+    </object>
+    <object id="0" type="text" x="-4961.95" y="1783.65" r="0" s="11.669971385643276" class="strong">
+      <height>32.664</height>
+      <width>260.9002977529485</width>
+      <p align="center">
+        <text><![CDATA[System Concept & Design]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="2_24309637"/>
+      </layout>
+    </object>
+    <object id="1" type="text" x="-5011.530106145175" y="3038.2465308508217" r="0" s="6.733514587638813" class="body">
+      <height>262.44</height>
+      <width>569.1793494128966</width>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Ease of use using 21st century technologies; mobile device, web access, through secure web service implementation while maintaining a personal touch]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Simplistic access to a vet's records, care and recovery]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[A technology system that works for us, not against us]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[A unified VA network that collects, shares and disseminates usable data to the right people]]></text>
+      </p>
+      <p listType="bullet" indent="1">
+        <text><![CDATA[Use voice and/or text driven interface for ease of use paired with video response for a personal feel]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="2_24309637"/>
+      </layout>
+    </object>
+    <object id="2" type="text" x="7427.3" y="-1236.8" r="0" s="6.183953835372202" class="strong">
+      <height>65.328</height>
+      <width>294.53400458443656</width>
+      <p>
+        <text><![CDATA[A very special thanks to:]]></text>
+      </p>
+      <p>
+        <text><![CDATA[John Bungert & Mike Jones]]></text>
+      </p>
+    </object>
+    <object id="3" type="button" x="10627.35" y="-2348.3" r="0" s="2.5496770270604854" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="4" type="text" x="10619.961956053816" y="-3065.4434399677934" r="0" s="5.620948468943428" class="strong">
+      <height>32.664</height>
+      <width>220.4993900181616</width>
+      <p align="center">
+        <text><![CDATA[Thank you!]]></text>
+      </p>
+      <layout>
+        <layout-element role="title" parent-id="3"/>
+      </layout>
+    </object>
+    <object id="5" type="text" x="10661.634072425835" y="-2329.6267283976695" r="0" s="3.2432588959523247" class="body">
+      <height>320.76</height>
+      <width>481.1033435969243</width>
+      <p>
+        <text><![CDATA[MetLife                                           Veteran's Affairs]]></text>
+      </p>
+      <p>
+        <text><![CDATA[MongoDB                                       IBM]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Microsoft                                        RTP HQ]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[Mr. Lippert, Hoberman and Datillo who believed that high school students could tackle this challenge, who gave them an opportunity to shine by altering the rules just for them (<18).]]></text>
+      </p>
+      <p>
+        <text><![CDATA[]]></text>
+      </p>
+      <p>
+        <text><![CDATA[And all those who welcomed them with warm encouragement.]]></text>
+      </p>
+      <layout>
+        <layout-element role="body" parent-id="3"/>
+      </layout>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="2.0712742918675744" fadescale="1.0621480740806957">
+      <object id="background881535317" type="image" x="445.2911474354285" y="2252.54937548089" r="0" s="17.921006923858425">
+        <source w="1683" h="1220">881535317<url>881535317.png</url></source>
+        <sourceUrl>leaf3_compressed2.png</sourceUrl>
+      <resource><id>881535317</id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/9/8/b/7810512c09dd89ffe3f1bbafefd2f132201b5.png</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="5_24309637"/>
+    </s>
+    <s>
+      <eagle o="2_24309637"/>
+    </s>
+    <s>
+      <eagle o="1_24309637"/>
+    </s>
+    <s>
+      <eagle o="0_24309637"/>
+    </s>
+    <s>
+      <eagle o="3_24309637"/>
+    </s>
+    <s>
+      <eagle o="3"/>
+    </s>
+    <s>
+      <eagle o="5_24309637"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('Cabin-Regular.keg');
+	fontFamily: body;
+	font-class: body;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Alegreya-BoldItalic.keg');
+	fontFamily: head;
+	font-class: head;
+	font-style: italic;
+	font-weight: bold;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('Alegreya-Bold.keg');
+	fontFamily: strong;
+	font-class: strong;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('Cabin-BoldItalic.keg');
+	font-style: italic;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Cabin-Bold.keg');
+	font-style: normal;
+	font-weight: bold;
+	font-family: Cabin;
+}
+
+@font-face
+{
+	src: url('Alegreya-Italic.keg');
+	font-style: italic;
+	font-weight: normal;
+	font-family: Alegreya;
+}
+
+@font-face
+{
+	src: url('Alegreya-Regular.keg');
+	font-style: normal;
+	font-weight: normal;
+	font-family: Alegreya;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	color: #fff808;
+	fontFamily: head;
+}
+
+text.subtitle
+{
+	color: #fff;
+	fontFamily: strong;
+}
+
+text.body
+{
+	color: #fff;
+	fontFamily: body;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.bracket
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+	thickness: 7;
+}
+
+frame.rectangle
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+	radius: 0;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	color: #fff;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+line-arrow.style2
+{
+	color: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	color: #fff808;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line-arrow.style4
+{
+	color: #333;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+line-arrow.style5
+{
+	color: #000;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+circle
+{
+	borderAlpha: 1;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape
+{
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	gradStartAlpha: 0.7;
+	lockTintAlpha: 0.6;
+	radius: 0;
+	thickness: 100;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+ZPoly
+{
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+	radius: 0;
+	thickness: 100;
+}
+
+Background
+{
+	gradEnd: #598c13;
+	gradStart: #92cb19;
+}
+
+ZLabel
+{
+	lockTintAlpha: 0.15;
+}
+
+ZLabel.head
+{
+	color: #fff;
+	fontFamily: head;
+}
+
+.line5
+{
+	color: #6b1a16;
+	gradEndColor: #e84255;
+	gradStartColor: #e84255;
+}
+
+.poly5
+{
+	borderAlpha: 0;
+	borderColor: #6b1a16;
+	borderThickness: 0;
+	color: #75ab16;
+	gradEndColor: #e84255;
+	gradStartColor: #e84255;
+}
+
+ZLabel.strong
+{
+	color: #333;
+	fontFamily: strong;
+}
+
+.line1
+{
+	color: #000;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+.poly1
+{
+	borderAlpha: 0;
+	borderColor: #000;
+	borderThickness: 0;
+	color: #75ab16;
+	gradEndAlpha: .5;
+	gradEndColor: #000;
+	gradStartAlpha: .5;
+	gradStartColor: #000;
+}
+
+ZLabel.body
+{
+	color: #222;
+	fontFamily: body;
+}
+
+ZFrame.circle
+{
+	gradEndAlpha: .45;
+	gradEndColor: #fff;
+	gradStartAlpha: .85;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 8;
+}
+
+.line4
+{
+	color: #e1ff3e;
+	gradEndColor: #dcf919;
+	gradStartColor: #dcf919;
+}
+
+.poly4
+{
+	borderAlpha: 0;
+	borderColor: #e1ff3e;
+	borderThickness: 0;
+	color: #75ab16;
+	gradEndColor: #dcf919;
+	gradStartColor: #dcf919;
+}
+
+ZFrame.bracket
+{
+	gradEndAlpha: .7;
+	gradEndColor: #fff;
+	gradStartAlpha: .5;
+	gradStartColor: #fff;
+	padding: 1.03;
+	thickness: 8;
+}
+
+.line2
+{
+	color: #24b4fa;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+.poly2
+{
+	borderAlpha: 0;
+	borderColor: #24b4fa;
+	borderThickness: 0;
+	color: #75ab16;
+	gradEndColor: #318bff;
+	gradStartColor: #318bff;
+}
+
+ZFrame.roundrect
+{
+	gradEndAlpha: .3;
+	gradEndColor: #fff;
+	gradStartAlpha: .3;
+	gradStartColor: #fff;
+	padding: 1.03;
+	radius: 3;
+}
+
+ZArrow
+{
+	gradEndAlpha: 1;
+	gradStartAlpha: 1;
+	lockTintAlpha: 0;
+}
+
+.line3
+{
+	color: #45efe2;
+	gradEndColor: #45efe2;
+	gradStartColor: #45efe2;
+}
+
+.poly3
+{
+	borderAlpha: 0;
+	borderColor: #45efe2;
+	borderThickness: 0;
+	color: #75ab16;
+	gradEndColor: #45efe2;
+	gradStartColor: #45efe2;
+}
+
+ZLine
+{
+	color: #333;
+	lockTintAlpha: 0;
+}
+
+ZCurveLine
+{
+	color: #000;
+}
+
+ZMarker
+{
+	alpha: 0.7;
+	color: #e1ff3e;
+}
+
+Grid
+{
+	color: #91d41b;
+}
+
+ZPath
+{
+	alpha: 1;
+	color: #40abe6;
+	textColor: #fff;
+	thickness: 3;
+}
+
+ZPath Ball.mid
+{
+	alpha: .5;
+	fillColor: #40abe6;
+	radius: 8;
+}
+
+ZPath Ball.base
+{
+	alpha: 1;
+	fillColor: #40abe6;
+	radius: 12;
+}
+
+ZLabel.head-background
+{
+	background-alpha: 0.7;
+	background-color: #318bff;
+	background-padding: 4;
+}
+
+ZLabel.strong-background
+{
+	background-alpha: 0.7;
+	background-color: #dcf919;
+	background-padding: 4;
+}
+
+ZLabel.body-background
+{
+	background-alpha: 0.8;
+	background-color: #fff;
+	background-padding: 4;
+}
+
+]]></style>
+  <hash>-3a1559a2</hash>
+<sync><oid>ibzacv5_lwpp</oid><title>maan-powered</title><hash>-3a1559a2</hash></sync><config>buz1OuVNcmdGJgFinUFmaOWrt33U3DFLhISOa/swDLPuhFhXfGwoJKkOsiygtDvd9uh2Li5W9n36yYJBIWm7aQbGUBVtBv672HKiE+YIYrZGhMc1aBiUnAPfik6+M1N2+9dilrbpFPjJAixFtlJD61Zm0/Ehx9jx6mRnpGhYNYZhlDAqx/h/kV6KaxJ3sF3VVH6sIIrUYVoKj1LPd+xjQWGHwa4YhfLl7Re8onJl7M7Sx+xaZL6LphXc1HNkV8WpvrXY9vZIlw1tnJF9BOAU+dPNQAbCBjGBb0gLe34Ts7l6u6Xv6MgmkePovME6y8bPKrRzWxr59ziSxftAOJ8REw==</config></zuiprezi>
